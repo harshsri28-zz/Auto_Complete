@@ -165,6 +165,7 @@ int main()
 	insert(root, "help"); 
 	insert(root, "helps"); 
 	insert(root, "helping");
+	insert(root, "nonchalant");
 	string s;
 	cout<<"enter data\n";
 	cin>>s;
